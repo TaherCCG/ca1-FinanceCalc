@@ -54,11 +54,12 @@ whether or not they typed “simple” or “compound”, output the appropriate
 </ol></ol>
 
 <li/> If the user selects ‘bond’, do the following:
--  Ask the user to input:
--  The present value of the house. e.g. 100000
--  The interest rate. e.g. 7
--  The number of months they plan to take to repay the bond. e.g. 120
-
+<ol>
+<li>Ask the user to input:</li>
+<li>The present value of the house. e.g. 100000</li>
+<li>The interest rate. e.g. 7</li>
+<li>The number of months they plan to take to repay the bond. e.g. 120</li>
+</ol>
 **Bond repayment formula:**
 -  The amount that a person will have to be repaid on a home loan each month is calculated as follows: 
 𝑟𝑒𝑝𝑎𝑦𝑚𝑒𝑛𝑡 =
